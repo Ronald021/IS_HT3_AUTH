@@ -1,0 +1,8 @@
+server:
+  port : 8085
+
+key:
+  string : qwertyuiopasdfghjklzxcvbnm123456
+
+milis:
+  string : 6000
